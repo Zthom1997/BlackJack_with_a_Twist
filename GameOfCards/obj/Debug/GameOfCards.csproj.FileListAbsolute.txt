@@ -1,0 +1,14 @@
+D:\School\Vakken\A1D1\Inleveropdracht 1\GameOfCards\GameOfCards\bin\Debug\GameOfCards.exe.config
+D:\School\Vakken\A1D1\Inleveropdracht 1\GameOfCards\GameOfCards\bin\Debug\GameOfCards.exe
+D:\School\Vakken\A1D1\Inleveropdracht 1\GameOfCards\GameOfCards\bin\Debug\GameOfCards.pdb
+D:\School\Vakken\A1D1\Inleveropdracht 1\GameOfCards\GameOfCards\obj\Debug\GameOfCards.csprojAssemblyReference.cache
+D:\School\Vakken\A1D1\Inleveropdracht 1\GameOfCards\GameOfCards\obj\Debug\GameOfCards.csproj.CoreCompileInputs.cache
+D:\School\Vakken\A1D1\Inleveropdracht 1\GameOfCards\GameOfCards\obj\Debug\GameOfCards.exe
+D:\School\Vakken\A1D1\Inleveropdracht 1\GameOfCards\GameOfCards\obj\Debug\GameOfCards.pdb
+D:\School\Vakken\A1D1\Oefeningen\GameOfCards\GameOfCards\bin\Debug\GameOfCards.exe.config
+D:\School\Vakken\A1D1\Oefeningen\GameOfCards\GameOfCards\bin\Debug\GameOfCards.exe
+D:\School\Vakken\A1D1\Oefeningen\GameOfCards\GameOfCards\bin\Debug\GameOfCards.pdb
+D:\School\Vakken\A1D1\Oefeningen\GameOfCards\GameOfCards\obj\Debug\GameOfCards.csprojAssemblyReference.cache
+D:\School\Vakken\A1D1\Oefeningen\GameOfCards\GameOfCards\obj\Debug\GameOfCards.csproj.CoreCompileInputs.cache
+D:\School\Vakken\A1D1\Oefeningen\GameOfCards\GameOfCards\obj\Debug\GameOfCards.exe
+D:\School\Vakken\A1D1\Oefeningen\GameOfCards\GameOfCards\obj\Debug\GameOfCards.pdb
