@@ -1,4 +1,4 @@
-# BlackJack_with_a_Twist
+# BlackJack_with_a_Twist_Console
 BlackJack with a Twist is a simple card game developed for a school assessment. The primair assessment was to develop a cardgame 
 were the following:
 
