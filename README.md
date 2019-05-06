@@ -21,3 +21,5 @@ Features:
 - A reset method to replay the game and add more players
 - Buy chips and place a bet in a pot.
 - Pay out an price or pay out the pot to the bank if there are no winners.
+
+Note: All screens in this application are in Dutch! The source code is English!
